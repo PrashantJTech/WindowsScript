@@ -1,3 +1,3 @@
 # WindowsScripts
 
-this will help to execute
+this will help to execute scripts
